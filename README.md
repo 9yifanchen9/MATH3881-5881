@@ -9,7 +9,7 @@ MATH5881/3881 develops the statistical and mathematical theory underpinning mode
 ## Weekly Topics
 
 - **Week 0**: Basics of Linear Algebra, Calculus, and Probability
-  - 📝 <a href="./lectures/MATH5881_Lec_0_Calculus.pdf" target="_blank" rel="noopener">Calculus</a> | 📝 <a href="./lectures/MATH5881_Lec_0_LinearAlgebra.pdf" target="_blank" rel="noopener">Linear Algebra</a> | 📝 <a href="./lectures/MATH5881_Lec_0_Probability.pdf" target="_blank" rel="noopener">Probability</a> | 📖 Python Basics
+  - 📝 <a href="./lectures/MATH5881_Lec_0_Calculus.pdf" target="_blank" rel="noopener">Calculus</a> | 📝 <a href="./lectures/MATH5881_Lec_0_LinearAlgebra.pdf" target="_blank" rel="noopener">Linear Algebra</a> | 📝 <a href="./lectures/MATH5881_Lec_0_Probability.pdf" target="_blank" rel="noopener">Probability</a> | 📖 <a href="./notebooks/week00" target="_blank" rel="noopener">Python Basics</a>
 - **Week 1**: Foundations of Supervised Learning
   - 📝 Lecture Notes | 📖 Exercises | 🎓 Tutorial
 - **Week 2**: Feedforward Neural Networks
