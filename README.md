@@ -11,15 +11,15 @@ MATH3881/5881 develops the statistical and mathematical theory underpinning mode
 - **Week 0**: Basics of Linear Algebra, Calculus, and Probability
   - 📝 <a href="./lectures/MATH3881-5881_Lec_0_Calculus.pdf" target="_blank" rel="noopener">Calculus</a> | 📝 <a href="./lectures/MATH3881-5881_Lec_0_LinearAlgebra.pdf" target="_blank" rel="noopener">Linear Algebra</a> | 📝 <a href="./lectures/MATH3881-5881_Lec_0_Probability.pdf" target="_blank" rel="noopener">Probability</a> | 📖 <a href="./notebooks/week00" target="_blank" rel="noopener">Python Basics</a>
 - **Week 1**: Foundations of Supervised Learning
-  - 📝 <a href="./lectures/MATH3881-5881_Lec_1_Foundations_of_Supervised_Learning.pdf" target="_blank" rel="noopener">Lecture Notes</a> | 📖 Exercises | 🎓 Tutorial
+  - 📝 <a href="./lectures/MATH3881-5881_Lec_1_Foundations_of_Supervised_Learning.pdf" target="_blank" rel="noopener">Lecture Notes</a> | 🎓 Tutorial
 - **Week 2**: Feedforward Neural Networks
-  - 📝 Lecture Notes | 📖 Exercises | 🎓 Tutorial
+  - 📝 Lecture Notes | 🎓 Tutorial
 - **Week 3**: Optimisation, Computational Graphs, and Backpropagation
-  - 📝 Lecture Notes | 📖 Exercises | 🎓 Tutorial
+  - 📝 Lecture Notes | 🎓 Tutorial
 - **Week 4**: Stochastic Gradient Descent and Adaptive Optimisers
-  - 📝 Lecture Notes | 📖 Exercises | 🎓 Tutorial
+  - 📝 Lecture Notes | 🎓 Tutorial
 - **Week 5**: Convolutional Neural Networks
-  - 📝 Lecture Notes | 📖 Exercises | 🎓 Tutorial
+  - 📝 Lecture Notes | 🎓 Tutorial
 
 - **Week 6**: Break (no lectures)
 
@@ -28,8 +28,8 @@ MATH3881/5881 develops the statistical and mathematical theory underpinning mode
 ## Repository Contents
 
 - `lectures/`: Lecture notes (PDFs)
-- `notebooks/`: Jupyter notebook exercises demonstrating key concepts and methods
-- `datasets/`: Sample datasets used in some examples and exercises
+- `notebooks/`: Python basics notebooks
+- `datasets/`: Sample datasets used in the notebooks
 - `tutorials/`: Weekly tutorial/lab tasks
 
 ## Getting Started
