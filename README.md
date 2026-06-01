@@ -46,7 +46,11 @@ MATH3881/5881 develops the statistical and mathematical theory underpinning mode
 
 ## Getting Started
 
-The **practice tutorials** are Jupyter notebooks designed to run in **Google Colab** — just click the 💻 link in the weekly topics above to open the notebook in your browser; no local setup required.
+The **practice tutorials** are Jupyter notebooks designed to run in **Google Colab** — no local installation required. To open and use one:
+
+1. Click the 💻 **Practice Tutorial** link for the week you want (in the *Weekly Topics* above). The notebook opens directly in Colab in your browser.
+2. You'll need a **Google account** to run cells.
+3. To edit the notebook (e.g.\ to complete the exercises), click **File → Save a copy in Drive**. Your copy is yours to modify.
 
 If you'd prefer to run things locally instead:
 
